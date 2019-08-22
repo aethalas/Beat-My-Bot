@@ -1,0 +1,16 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection 2:
+
+   Connection-specific DNS Suffix  . : HAL.local
+   Link-local IPv6 Address . . . . . : fe80::3121:6ef3:c225:83f9%12
+   IPv4 Address. . . . . . . . . . . : 172.16.1.40
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 172.16.1.1
+
+Tunnel adapter isatap.HAL.local:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : HAL.local
